@@ -88,8 +88,8 @@ I enjoy tackling algorithmic challenges and continuously improving my problem-so
 I'm always interested in building useful things, learning from other developers,
 and collaborating on meaningful projects.
 
-📧 **Email:** YOUR_EMAIL  
-💼 **LinkedIn:** YOUR_LINKEDIN_URL  
+📧 **Email:** shivanshsharma23000@gmail.com
+💼 **LinkedIn:** [@Shivansh Sharma](https://www.linkedin.com/in/shivansh-sharma-29aug05)
 🐙 **GitHub:** [@Shivansh2985](https://github.com/Shivansh2985)
 
 ---
